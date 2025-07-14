@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: black;
+    
+    
+
+}
+#m{
+    margin:20px auto;
+    color: rgb(247, 93, 58);
+    border: solid 1px rgb(224, 59, 59);
+    border-radius: 5%;
+    width: 300px;
+}
